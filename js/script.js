@@ -1,3 +1,4 @@
+// Language Translator By Rishabh Saklani
 const fromText = document.querySelector(".from-text"),
 toText = document.querySelector(".to-text"),
 exchageIcon = document.querySelector(".exchange"),
