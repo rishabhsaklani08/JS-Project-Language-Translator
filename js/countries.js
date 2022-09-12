@@ -1,3 +1,4 @@
+// Language Translator By Rishabh Saklani
 const countries = {
     "am-ET": "Amharic",
     "ar-SA": "Arabic",
